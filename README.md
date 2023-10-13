@@ -8,7 +8,7 @@ Very simple library of the images that were issued as Slack emojis at the recent
 1. Clone this repo
 2. Import as a library into draw.io
 3. 
-On draw.io, click **File** > **Open Library From** > **URL** and paste `https://raw.githubusercontent.com/jwoods-ucsb/hashicorp-draw.io/master/HashiCorp.xml`
+On draw.io, click **File** > **Open Library From** > **URL** and paste `https://raw.githubusercontent.com/jwoods-ucsb/hashicorp-draw.io/main/hashicorp-draw-io.xml`
 
 ## Contents
 
